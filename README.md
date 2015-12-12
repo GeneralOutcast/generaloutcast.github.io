@@ -3,6 +3,7 @@
 **Teacher**: [Nick Cannariato](http://github.com/nickcannariato)  
 **Curriculum**: [Code School's HTML, CSS, and JavaScript Paths](http://codeschool.com)  
 **Objective**: To learn HTML, CSS, and JavaScript and build a website from scratch  
+
 ----
 
 ## About
